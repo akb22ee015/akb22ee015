@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?text=Hii%20Atish%20here!💻&animation=fadeIn&type=waving&color=gradient&height=100)
 
 ## 🙋‍♂️ About Me
-- 👨🏼‍🎓 I'm a Pre-Final Year from IIT Jodhpur.<br>
+- 👨🏼‍🎓 I'm a Pre-Final Year Student from IIT Jodhpur.<br>
 - 🌱 Machine Learning Enthusiast.<br>
 - 👨‍💻 Software Devloper<br>
 - 👯 I’m looking to collaborate on open source projects.<br>
